@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/wahidzzz/testmonial-grid-section)
+- Live Site URL: [Netlify](https://testimony-grid-section-frontendmentor.netlify.app/)
 
 ### Built with
 
@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Author
 
-- Github - [Wahid Shaikh](https://www.your-site.com)
+- linkedIn - [Wahid Shaikh](https://www.linkedin.com/in/wahid-shaikh-7b1416148/)
 - Frontend Mentor - [@wahidzzz](https://www.frontendmentor.io/profile/wahidzzz)
